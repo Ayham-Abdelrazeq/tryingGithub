@@ -1,0 +1,1 @@
+In this example I'm gonna add a new file to both development and main branches, then try to merge the branches.
